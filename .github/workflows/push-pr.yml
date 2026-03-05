@@ -1,3 +1,4 @@
+name: PR and Push Workflow
 on:
   push:
     branches:
